@@ -16,14 +16,14 @@ The Simon Game is a classic memory game where players are shown a sequence of co
    
 ## Installation & Usage
 
-Clone the repository:
+#### Clone the repository:
 
 git clone https://github.com/kevin256013/Simon-Game.git
 
-Navigate to the project directory:
+#### Navigate to the project directory:
 
 cd Simon-Game
 
-Open the index.html file in your browser:
+#### Open the index.html file in your browser:
 
 open index.html
